@@ -33,12 +33,13 @@
             // 
             // button1
             // 
+            button1.BackColor = Color.Lime;
             button1.Location = new Point(344, 269);
             button1.Name = "button1";
             button1.Size = new Size(112, 34);
             button1.TabIndex = 0;
             button1.Text = "Yeni Şifre Al";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
